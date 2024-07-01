@@ -13,3 +13,23 @@
  *= require_tree .
  *= require_self
  */
+h1{
+  color: #686868;
+  align-self: center;
+  padding-bottom: 5vh;
+}
+
+body{
+  padding: 5%;
+}
+
+div{
+  border-left: #c0c0c0 8px solid;
+  padding: 1%;
+  max-width: 30%;
+  margin: 2%;
+}
+
+.coach-answer{
+  background-color: rgb(255, 253, 216);
+}
